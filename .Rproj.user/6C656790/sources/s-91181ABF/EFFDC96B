@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1536713755881.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "576779778",
+    "id" : "EFFDC96B",
+    "lastKnownWriteTime" : 1536713794,
+    "last_content_update" : 1536713794578,
+    "path" : "~/GitHub/test2/temp.R",
+    "project_path" : "temp.R",
+    "properties" : {
+        "cursorPosition" : "0,20",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
